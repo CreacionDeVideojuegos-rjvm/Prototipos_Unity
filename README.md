@@ -12,7 +12,10 @@
 README con dirección a los demás de los prototipos
 
 ## Prototipo 1
-<a href="https://github.com/CreacionDeVideojuegos-rjvm/Prototipo2" target="_blank">Prototipo 2</a>
+<a href="https://github.com/CreacionDeVideojuegos-rjvm/Prototipo1" target="_blank">Prototipo 1</a>
 
 ## Prototipo 2
 <a href="https://github.com/CreacionDeVideojuegos-rjvm/Prototipo2" target="_blank">Prototipo 2</a>
+
+## Prototipo 3
+TRABAJANDO EN ELLO
