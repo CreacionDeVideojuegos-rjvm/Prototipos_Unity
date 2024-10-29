@@ -27,4 +27,4 @@ README con dirección a los demás de los prototipos
 <a href="https://github.com/CreacionDeVideojuegos-rjvm/Prototipo4" target="_blank">Prototipo 4</a>
 
 ## Prototipo 5
-TRABAJANDO EN ELLO
+<a href="https://github.com/CreacionDeVideojuegos-rjvm/Prototipo-5" target="_blank">Prototipo 4</a>
